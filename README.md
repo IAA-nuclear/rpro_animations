@@ -11,7 +11,7 @@ How to download an animation:
 2) click on "Download" box in the lower part of the page to the right.
 
 How to download all files:
-1) click the green button "Code".
+1) click the green button "Code" (at the home page of the repository where you found this readme file https://github.com/IAA-nuclear/rpro_animations).
 2) from the drop down meny choose "Download ZIP" and the downloading should start. 
 
 
