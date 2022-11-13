@@ -15,5 +15,9 @@ How to download all files:
 2) from the drop down meny choose "Download ZIP" and the downloading should start. 
 
 
-List of animations and short description:
-...(todo)...
+List of animations and the figure they relate to in the thesis:
+- anim_zmax110.mp4, Fig. 3.13 top panel (Zmax=110)
+- anim_zmax100.mp4, Fig. 3.13 bottom panel (Zmax=100)
+- anim_zmax110_100.mp4, Fig. 3.14 (Mass fraction ratio X1/X2 of Zmax=110 and 100)
+- anim_zmax110_130207.mp4, Fig. 3.16 (One Ye=0.05 trajectory with Zmax=110)
+- anim_zmax100_130207.mp4, Fig. 3.16 (One Ye=0.05 trajectory with Zmax=100)
