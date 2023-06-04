@@ -1,6 +1,7 @@
 # rpro_animations
 Publicly available r-process animations related to Ina Kullmann's (@inabkb) PhD Thesis
-[add the reference to the thesis]
+ULB link: https://difusion.ulb.ac.be/vufind/Record/ULB-DIPOT:oai:dipot.ulb.ac.be:2013/351776/Details
+ArXiv link: https://arxiv.org/abs/2303.06366
 
 How to view the animations interactively:
 1) click on the file you want to view. 
